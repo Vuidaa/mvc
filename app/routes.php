@@ -4,7 +4,7 @@
 
 return 
 [
-	'/' 				=> ['HomeController', 		'index'],
-	'contact-us'		=> ['HomeController', 		'contact'],
-	'gallery'			=> ['GalleryController', 	'index'],
+	'/' 			=> ['HomeController','index'],
+	'contact-us'	=> ['HomeController','contact'],
+	'gallery'		=> ['GalleryController','index'],
 ];
